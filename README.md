@@ -1,4 +1,4 @@
-# Hi there, I'm Gleamy Zuni 
+s# Hi there, I'm Gleamy Zuni 
 
  *"Software Engineer | Web Developer | UI/UX Enthusiast"*
 
