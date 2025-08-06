@@ -1,15 +1,15 @@
-# Hi there, I'm Gleamy Zuni 👋
+# Hi there, I'm Gleamy Zuni 
 
-🌟 *"Software Engineer | Web Developer | UI/UX Enthusiast"*
+ *"Software Engineer | Web Developer | UI/UX Enthusiast"*
 
 ---
 
-### 💫 About Me
+### About Me
 I'm a software engineer who enjoys building elegant and intuitive web experiences. Whether it's writing clean code, perfecting a UI design, or connecting hardware with software, I love creating things that make an impact.
 
-- 🔭 Currently working on **Web Development** & **Hardware-Software Integration**
-- 🌱 Always learning and experimenting with new tools and technologies
-- ✨ I believe that design is just as important as functionality
+- Currently working on **Web Development** & **Hardware-Software Integration**
+- Always learning and experimenting with new tools and technologies
+- I believe that design is just as important as functionality
 
 ---
 
@@ -23,13 +23,6 @@ I'm a software engineer who enjoys building elegant and intuitive web experience
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
----
-
-### ✨ Fun Facts About Me
-- 💚 I’m **self-obsessed** – investing in myself is my favorite habit
-- 🎨 I love **decorating spaces**, whether it’s digital or physical
-- 🧶 Obsessed with **crocheting** little things
-- 🍳 I find peace in **cooking** and trying out new recipes
 
 ---
 
