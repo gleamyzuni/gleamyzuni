@@ -36,4 +36,3 @@ I'm a software engineer who enjoys building elegant and intuitive web experience
 
 ---
 
-_Thanks for stopping by! Stay curious 🌱 and keep building 🚀_
